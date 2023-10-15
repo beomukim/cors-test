@@ -3,7 +3,7 @@ management:
         web:
             cors:
                 allowed-origins: http//localhost:3000
-                allowed-methods: GET,POST, PUT, PATCH, DELETE
+                allowed-methods: GET, POST, PUT, PATCH, DELETE
 
 spring:
     servlet:
